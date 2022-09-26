@@ -5,7 +5,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Ashutos777](https://github.com/Ashutos777)
 
 - 💬 Reach me at **ashutosnayak19@gmail.com**
--  ![download (7)](https://user-images.githubusercontent.com/111995863/192351741-68ea7607-4ea0-449c-ad60-91eff031f1c5.png) [LinkedIn ](linkedin.com/in/ashutos-nayak819)
+-  ![download (7)](https://user-images.githubusercontent.com/111995863/192351741-68ea7607-4ea0-449c-ad60-91eff031f1c5.png) [LinkedIn ](https://www.linkedin.com/in/ashutos-nayak819?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2u0yDiMtTCCbWW%2FsVfOA3g%3D%3D)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
