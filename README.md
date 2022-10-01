@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutos Nayak</h1>
-<h3 align="center">Aspiring Data analyst and Business intelligence who loves working with data having experience in Python | SQL | Tableau | Ms-excel</h3>
+<h3 align="center">Aspiring Data analyst and Business intelligence who loves working with data having experience in Python|SQL|Tableau|Ms-excel</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutos777&label=Profile%20views&color=0e75b6&style=flat" alt="ashutos777" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ashutos777](https://github.com/Ashutos777)
